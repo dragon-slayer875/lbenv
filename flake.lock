@@ -38,11 +38,11 @@
     "lbdb": {
       "flake": false,
       "locked": {
-        "lastModified": 1793117269,
-        "narHash": "sha256-HOwKsEAhvgPKJMiSLVcaPHxTPp4aHWxoNMIu6lS3xlI=",
+        "lastModified": 1793235191,
+        "narHash": "sha256-wIFctEpImrZTb/1FWZdBww1H/ZVRdol9KiUVX42cyt8=",
         "owner": "Sm00shed",
         "repo": "lbdb",
-        "rev": "1f80fdb0352ea4d231de9df1856fc50a96e75016",
+        "rev": "ccba5d7e5e8730bb3ebce0426c39f1effd5e90ee",
         "type": "github"
       },
       "original": {
